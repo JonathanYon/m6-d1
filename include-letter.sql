@@ -1,1 +1,1 @@
-SELECT * FROM books WHERE name LIKE '%y%'
+SELECT * FROM books WHERE name LIKE 'T%'
