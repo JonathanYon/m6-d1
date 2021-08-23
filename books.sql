@@ -30,4 +30,12 @@ INSERT INTO books(name, category, cover, author, published_at) VALUES('The A.B.C
 INSERT INTO books(name, category, cover, author, published_at) VALUES('The Alchemist', 'Novel', 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0tgvYN4QHjHQDige5hIX2HkIe5hLSgwDr5zrn2Vd1-bchhyIM', 'Paulo Coelho', '01-01-1988');
 INSERT INTO books(name, category, cover, author, published_at) VALUES('Veronika Decides to Die', 'Novel', 'shorturl.at/uwNR2', 'Paulo Coelho', '01-01-1998');
 INSERT INTO books(name, category, cover, author, published_at) VALUES('Adultery', 'Fiction', 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0tgvYN4QHjHQDige5hIX2HkIe5hLSgwDr5zrn2Vd1-bchhyIM', 'Paulo Coelho', '10-04-2014');
+INSERT INTO books(name, category, cover, author, published_at) VALUES('Code to Zero', 'Novel', 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCode_to_Zero&psig=AOvVaw0FdTqsynI0g6DpzwBbhzV2&ust=1629813067182000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOCntailx_ICFQAAAAAdAAAAABAD', 'Ken Follett', '01-01-2000');
+INSERT INTO books(name, category, cover, author, published_at) VALUES('Whiteout', 'Thriller-novel', 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVGFFTGFLOM1zjs2862nR9j9R3DtkvK-RCvP3w3oX1S-v2Gl_W', 'Ken Follett', '08-06-2009');
+INSERT INTO books(name, category, cover, author, published_at) VALUES('Hornet Flight', 'Novel', 'shorturl.at/cnDNQ', 'Ken Follett', '21-11-2002');
+INSERT INTO books(name, category, cover, author, published_at) VALUES('A Time for Mercy', 'Legal thriller', 'shorturl.at/uwNR2', 'John Grisham', '29-12-2020');
+INSERT INTO books(name, category, cover, author, published_at) VALUES('The Pelican Brief', 'Legal thriller', 'shorturl.at/uwNR2', 'John Grisham', '07-06-1970');
+INSERT INTO books(name, category, cover, author, published_at) VALUES('The Innocent Man', 'Thriller', 'shorturl.at/uwNR2', 'John Grisham', '20-10-2015');
+
+
 
