@@ -23,9 +23,9 @@ CREATE TABLE
 
 INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
 INSERT INTO books(name, category, cover, author, published_at) VALUES('Angels and Demons', 'Mystery-Thriller', 'https://www.goodreads.com/book/show/960.Angels_Demons', 'Dan Brown', '01-05-2000')
-INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
-INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
-INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
+INSERT INTO books(name, category, cover, author, published_at) VALUES('The Lost Symbol', 'Mystery-Thriller', 'https://danbrown.com/the-lost-symbol/', 'Dan Brown', '15-09-2009')
+INSERT INTO books(name, category, cover, author, published_at) VALUES('The Mysterious Affair at Styles', 'Detective', 'https://www.agathachristie.com/en/stories/the-mysterious-affair-at-styles', 'Agatha Christie', '01-10-1920')
+INSERT INTO books(name, category, cover, author, published_at) VALUES('Death on the Nile', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
 INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
 INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
 INSERT INTO books(name, category, cover, author, published_at) VALUES('The Da Vinci Code', 'Thriller', 'https://danbrown.com/the-davinci-code/', 'Dan Brown', '15-03-2003')
